@@ -5,7 +5,7 @@
 This project uses a model created with TensorFlow to generate inspirational quotes, or submit your own quote to help train the model.
 Python | Flask | Tensorflow | Firebase | MongoDB
 
-Thank you for reading, andfollow details below for dependencies:
+Thank you for visiting, read details below for dependencies:
  </p>
   
 
